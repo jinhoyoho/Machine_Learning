@@ -8,12 +8,10 @@
 
 제일 기본인 머신러닝부터 딥러닝 및 3D object detection, sensor fusion까지 코드를 만들어 보는 것이 목표입니다.
 
----
-
 제가 중요하다고 생각한 부분의 글과 코드를 발췌하였습니다.
 
-## 참고자료
-
 ---
+
+## 참고자료
 
 https://wikibook.co.kr/pymlrev2/
